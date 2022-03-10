@@ -1,7 +1,7 @@
 {
-    "name": "Sew-Queen",
+    "name": "RedBlacky",
     "description": "World Best Whatsapp Bot",
-    "logo": "https://ibb.co/hVXyfB4.png",
+    "logo": "https://i.ibb.co/SwFdHHS/Red-Blacky.jpg",
     "keywords": ["sew", "sewqueen"],
     "stack": "container",
     "env": {
@@ -37,7 +37,7 @@
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *SEW QUEEN-X WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN-X CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃  RedBlacky *HATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS RedBlacky CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -100,7 +100,7 @@
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW -X ✬"
+            "value": "✬ RedBlacky ✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
