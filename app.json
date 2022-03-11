@@ -37,7 +37,7 @@
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃  RedBlacky *HATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS RedBlacky CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃  *RedBlacky* *HATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n *THIS IS RedBlacky CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -100,7 +100,7 @@
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ RedBlacky ✬"
+            "value": "✬RedBlacky✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
@@ -197,7 +197,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://ibb.co/hVXyfB4.png"
+            "value": "https://i.ibb.co/SwFdHHS/Red-Blacky.jpg"
         },
         "GROUP_MANAGE": {
             "description": "Type true if you need allow admin to use admin command",
