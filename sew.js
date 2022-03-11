@@ -128,11 +128,11 @@ async function sewQueen() {
 
                 console.log(SOL.LOG); console.log(SOL.PASSC);
 
-                if (Details.SEWRR == 'raviya') {
+                if (Details.SEWRR == 'nishen') {
 
                         console.log(SOL.PASSD)
 
-                } else if (Details.SEWRR !== 'raviya') {
+                } else if (Details.SEWRR !== 'nishen') {
 
                         throw new Error(SOL.PASSW); return;
 
